@@ -1,7 +1,7 @@
 <?php
 
 /**
-  * Function to query clients based on phone number
+  * Function to query users based on userID
   */
 require "common.php";
 
